@@ -1,6 +1,5 @@
 # Validation Rules Catalog - Reference Documentation
 
-
 ## Overview
 
 The ISWC Platform implements **95+ validation rules** across two pipeline stages:

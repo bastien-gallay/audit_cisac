@@ -1,7 +1,30 @@
-site_name: "Réponse à l'Appel d'Offre Audit CISAC"
+site_name: "CISAC ISWC System Audit"
 
 nav:
   - Home: index.md
+  - Deliverables:
+      - Overview: deliverables/index.md
+      - First Restitution:
+          - deliverables/first-restitution-2025-11-24/index.md
+          - Executive Summary: deliverables/first-restitution-2025-11-24/executive-summary.md
+          - Presentation:
+              - Overview: deliverables/first-restitution-2025-11-24/presentation/index.md
+              - Part 1 - Journey: deliverables/first-restitution-2025-11-24/presentation/part1-journey.md
+              - Part 2 - Executive Summary: deliverables/first-restitution-2025-11-24/presentation/part2-executive-summary.md
+              - Part 3 - Technical Findings: deliverables/first-restitution-2025-11-24/presentation/part3-technical-findings.md
+              - Part 4 - Governance: deliverables/first-restitution-2025-11-24/presentation/part4-governance-findings.md
+              - Part 5 - Vendor Lock-in: deliverables/first-restitution-2025-11-24/presentation/part5-vendor-lock-in.md
+              - Part 6 - Recommendations: deliverables/first-restitution-2025-11-24/presentation/part6-strategic-recommendations.md
+              - Part 7 - Decisions: deliverables/first-restitution-2025-11-24/presentation/part7-decision-points.md
+          - Annexes:
+              - Overview: deliverables/first-restitution-2025-11-24/annexes/index.md
+              - Annex A - Detailed Findings: deliverables/first-restitution-2025-11-24/annexes/annex-a-detailed-findings.md
+              - Annex B - Stakeholder Quotes: deliverables/first-restitution-2025-11-24/annexes/annex-b-stakeholder-quotes.md
+              - Annex C - Validation Rules: deliverables/first-restitution-2025-11-24/annexes/annex-c-validation-rules.md
+              - Annex D - Items Verification: deliverables/first-restitution-2025-11-24/annexes/annex-d-items-verification.md
+      - Technical Documents:
+          - Spanish Point Report: deliverables/SpanishPoint-FactFindings-Report.md
+          - Validation Rules Catalog: deliverables/validation-rules-catalog.md
   - Proposition:
       - proposal/index.md
       - Contexte: proposal/context-introduction.md

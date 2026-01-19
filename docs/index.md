@@ -1,21 +1,25 @@
-# Réponse à l'Appel d'Offre Audit CISAC
+# CISAC ISWC System Audit
 
-Bienvenue dans la documentation de notre réponse à l'appel d'offre pour l'audit CISAC.
+Welcome to the CISAC ISWC System Audit documentation by Teragone-Factory.
 
-## Vue d'ensemble
+## Audit Deliverables
 
-Cette documentation contient tous les éléments de notre proposition pour l'audit des systèmes et processus de la CISAC (Confédération Internationale des Sociétés d'Auteurs et Compositeurs).
+Access all audit findings and recommendations:
 
-## Structure de la documentation
+- **[All Deliverables](deliverables/index.md)** - Complete audit outputs
+- **[First Restitution (Nov 2025)](deliverables/first-restitution-2025-11-24/index.md)** - Main findings presentation
+- **[Executive Summary](deliverables/first-restitution-2025-11-24/executive-summary.md)** - Quick overview
 
-### 📋 Docs de Travail
+## Key Documents
 
-Documents de travail internes, notes de réunions et éléments de préparation de la proposition.
+| Document | Description |
+| -------- | ----------- |
+| [Presentation Parts](deliverables/first-restitution-2025-11-24/presentation/index.md) | 7-part presentation (29 slides) |
+| [Spanish Point Report](deliverables/SpanishPoint-FactFindings-Report.md) | Technical validation report |
+| [Validation Rules](deliverables/validation-rules-catalog.md) | 95+ rules documented |
 
-### 📚 Resources
+## Project Documentation
 
-Ressources de référence, documentation technique et matériaux de recherche utilisés pour préparer notre réponse.
-
----
-
-*Cette documentation est générée avec MkDocs et utilise le thème Material.*
+- [Proposal](proposal/index.md) - Original audit proposal
+- [Working Documents](docs_de_travail/index.md) - Internal documents
+- [Resources](resources/index.md) - Reference materials

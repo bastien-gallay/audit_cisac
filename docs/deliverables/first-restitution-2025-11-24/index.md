@@ -1,5 +1,7 @@
 # ISWC System Audit - First Restitution Presentation
 
+[Back to All Deliverables](../index.md)
+
 **Presentation Date:** November 24, 2025
 **Duration:** 1.5 hours (45 min presentation + 45 min discussion)
 **Audience:** CISAC Piloting Committee (Yann Lebreuilly, stakeholders)
@@ -59,6 +61,7 @@ This is a comprehensive restitution presentation for the ISWC system audit, orga
 ### Supporting Materials
 
 - [Executive Summary](executive-summary.md) - Condensed findings and recommendations for quick review
+- [Excel Extract](excel-extract.md) - LLM-readable version of the findings spreadsheet
 
 ### Annexes
 

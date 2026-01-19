@@ -132,6 +132,7 @@ graph LR
 **[View V1 (Linear) →](timeline-alternative-v1.html)**
 
 **Strengths:**
+
 - Clean, simple linear progression
 - Easy to scan top-to-bottom
 - Consistent card positioning
@@ -145,6 +146,7 @@ graph LR
 **[View V2 (Alternating) →](timeline-alternative-v2.html)**
 
 **Strengths:**
+
 - Dynamic visual balance
 - More space for card content (wider cards)
 - Professional alternating layout
